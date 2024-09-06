@@ -4,14 +4,6 @@ I'm an undergraduate student currently pursuing a **Bachelor's degree in Softwar
 
 ---
 
-### 🌱 Currently Learning
-- **Web Development**: HTML, CSS, JavaScript, PHP
-- **Programming**: C/C++, Python
-- **Database Management**: MySQL
-- **Version Control**: Git and GitHub for collaboration and project management
-
----
-
 ### 🔭 Projects
 
 - **Temperature Converter** – A web-based tool that converts temperatures between Celsius, Fahrenheit, and Kelvin using JavaScript.
