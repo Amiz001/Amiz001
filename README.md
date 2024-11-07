@@ -2,6 +2,20 @@
 
 I'm an undergraduate student currently pursuing a **Bachelor's degree in Software Engineering** at **SLLIT**. I'm passionate about web development, programming, and building practical projects with the skills I'm learning.
 
+<p id="text" style="font-size:20px color: blue">Hello I'm amila</p>
+<style> 
+#text{
+animation: colorChange 0.5s ease-in-out infinite ;
+}
+@keyframes colorChange{
+from{
+  color: blue;
+  }
+to{
+  color: red;
+  }
+}
+</style>
 ---
 
 ### 🔭 Projects
