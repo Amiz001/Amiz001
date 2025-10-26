@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amila Malshan! <br>
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1500&color=00C7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+a+UI/UX+Designer+%F0%9F%8C%90;Aspiring+Full+Stack+Developer;Passionate+Undergraduate+Software+Engineer&color1=00C7FF&color2=FF5733&color3=FFC300)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1500&color=00C7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer;UI/UX+Designer;Passionate+Undergraduate+Software+Engineer&color1=00C7FF&color2=FF5733&color3=FFC300)
 
 <br>
 
