@@ -9,7 +9,7 @@ I'm an undergraduate student pursuing a **Bachelor's degree in Software Engineer
 <br><br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiz001&show_icons=true&theme=holi"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amiz001&show_icons=true&theme=holi" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNvazZoaTVya3NxMGM5dGdlY3U1ZjlwMTN1anZqNTN4aGdjNnFoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="270"/>
   <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpyNWhxa2cycnRoaGpndjVrbjJsY3c2eGtkNTVkNXNjcnFwOXlleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="210"/> --> 
 </p>
@@ -75,3 +75,9 @@ I'm an undergraduate student pursuing a **Bachelor's degree in Software Engineer
 ### ☕ Support Me
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&size=large)](https://buymeacoffee.com/lgmalshan3)
+
+<br>
+
+<p align="center" style="background-color:black">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW5hdTZkNXpyZTJqbTdpaG5mcmphMGZ1Y2l3MXJueHNlNmwyODl1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/br99SojJZ5rlfSYset/giphy.gif" width="270"/>
+</p>
