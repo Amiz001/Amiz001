@@ -14,30 +14,6 @@ I'm an undergraduate student pursuing a **Bachelor's degree in Software Engineer
   <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpyNWhxa2cycnRoaGpndjVrbjJsY3c2eGtkNTVkNXNjcnFwOXlleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="210"/> --> 
 </p>
 
----
-
-### 🔭 Projects
-
-- **AutoHire – Vehicle Rental System** – Developed homepage, vehicle search, and admin user management.  
-  **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
-
-- **CoreHR – Employee Management System** – Built login page and user profile management.  
-  **Technologies:** HTML, CSS, Bootstrap, JavaScript, Java Servlet, MySQL
-
-- **Suva Saviya – AI Chatbot (UI/UX Competition)** – Frontend UI design for an AI chatbot, won 1st place.  
-  **Technologies:** HTML, CSS, JavaScript
-
-- **ParkBay – Smart Parking Management System** – Implemented homepage and user management (login/register/profile/admin) with authentication.  
-  **Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
-
-- **Nexubi – AI Alter (Ongoing Project)** – Fullstack development of a personalized AI companion web app with OpenAI integration.  
-  **Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, OpenAI API
-
-- **Megha – Personal Wellness Companion (Android App)** – Built habit & mood tracker with reminders.  
-  **Technologies:** Kotlin, XML, Android Studio, SharedPreferences
-
----
-
 <br>
 
 ### 💻 Technologies & Tools
