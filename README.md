@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amila Malshan
+<h1 align="center">Amila Malshan</h1>
 
 ### Software Engineer | Full Stack Developer | UI/UX Enthusiast
 
@@ -9,7 +9,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/wzoyI87IbG)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/amila_shan)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+intuitive+user+experiences;Solving+problems+through+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+intuitive+user+experiences;Solving+problems+through+code" alt="Typing SVG" />
 
 </br></br>
 <p align="center">
@@ -68,7 +68,7 @@ Currently exploring modern web technologies, mobile development, and best practi
 
 <br>
 
-### 📫 Reach Me
+<!-- ### 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&size=large)](mailto:lgmalshan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&size=large)](https://linkedin.com/in/amila-dev)
@@ -76,7 +76,7 @@ Currently exploring modern web technologies, mobile development, and best practi
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&size=large)](https://www.hackerrank.com/lgmalshan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&size=large)](https://leetcode.com/u/wzoyI87IbG)
 
-<br>
+<br> -->
 
 ### ☕ Support Me
 
