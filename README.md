@@ -12,8 +12,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+intuitive+user+experiences;Solving+problems+through+code" alt="Typing SVG" />
 
 </br></br>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amiz001&show_icons=true&theme=holi" />
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNvazZoaTVya3NxMGM5dGdlY3U1ZjlwMTN1anZqNTN4aGdjNnFoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="270"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpyNWhxa2cycnRoaGpndjVrbjJsY3c2eGtkNTVkNXNjcnFwOXlleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="210"/> 
 </p>
