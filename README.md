@@ -1,89 +1,221 @@
 <div align="center">
 
-<h1 align="center">Amila Malshan</h1>
+<!-- HERO SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=AMILA%20MALSHAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20UI/UX%20Craftsman&descAlignY=51&descAlign=50"/>
 
-### Software Engineer | Full Stack Developer | UI/UX Enthusiast
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amila-dev)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/lgmalshan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/wzoyI87IbG)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/amila_shan)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+intuitive+user+experiences;Solving+problems+through+code" alt="Typing SVG" />
-
-</br></br>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=amiz001&show_icons=true&theme=holi" />-->
+<!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNvazZoaTVya3NxMGM5dGdlY3U1ZjlwMTN1anZqNTN4aGdjNnFoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="270"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpyNWhxa2cycnRoaGpndjVrbjJsY3c2eGtkNTVkNXNjcnFwOXlleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="210"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+Scalable+Web+Architectures;Crafting+Pixel-Perfect+Interfaces;Engineering+Robust+Backend+Systems;Transforming+Ideas+Into+Digital+Reality" alt="Typing Animation" />
 </p>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://linkedin.com/in/amila-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="https://www.hackerrank.com/lgmalshan">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64"/>
+  </a>
+  <a href="https://leetcode.com/u/wzoyI87IbG">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116"/>
+  </a>
+  <a href="https://instagram.com/amila_shan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+  </a>
+  <a href="mailto:lgmalshan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  </a>
+</p>
+
+<br/>
 
 </div>
 
-<br>
+<!-- ABOUT SECTION -->
+<div align="center">
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ABOUT ME
 
-I'm a Software Engineering undergraduate at SLIIT, focused on building robust full-stack applications that solve real-world problems. I enjoy the entire development lifecycle—from designing intuitive interfaces to architecting scalable backend systems.
+</div>
 
-Currently exploring modern web technologies, mobile development, and best practices in software design. Always eager to learn, collaborate, and contribute to meaningful projects.
+```yaml
+name: Amila Malshan
+located_in: Sri Lanka
+current_role: Software Engineering Student @ SLIIT
+education: ["Software Engineering", "SLIIT"]
+fields_of_interest:
+  - Full Stack Development
+  - Mobile Applications
+  - UI/UX Design
+  - System Architecture
+  - Cloud Technologies
+  
+current_focus: Building production-grade applications with modern tech stacks
+2026_goals:
+  - Master advanced React patterns and Next.js
+  - Build scalable microservices architecture
+  - Contribute to open-source projects
+  - Launch personal SaaS product
+  
+personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-Oriented"]
+```
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> TECH ARSENAL
+
+</div>
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amiz001&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=C9D1D9" width="48%" />
 
-</div>
-
-<br>
-
-## 💻 Technologies & Tools
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-
-<br>
-
-<!-- ### 📫 Reach Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&size=large)](mailto:lgmalshan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&size=large)](https://linkedin.com/in/amila-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&size=large)](https://instagram.com/amila_shan)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&size=large)](https://www.hackerrank.com/lgmalshan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&size=large)](https://leetcode.com/u/wzoyI87IbG)
-
-<br> -->
-
-### ☕ Support Me
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&size=large)](https://buymeacoffee.com/lgmalshan3)
-
-<br>
-
-<p align="center" style="background-color:black">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW5hdTZkNXpyZTJqbTdpaG5mcmphMGZ1Y2l3MXJueHNlNmwyODl1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/br99SojJZ5rlfSYset/giphy.gif" width="270"/>
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui&theme=dark" />
 </p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,javascript&theme=dark" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin,java&theme=dark" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB ANALYTICS
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amiz001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF" />
+</div>
+
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amiz001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="95%"/>
+</div>
+
+<br/>
+
+<br/>
+
+<!-- PROFILE VIEWS & TROPHIES -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ACHIEVEMENTS & RECOGNITION
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amiz001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amiz001&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
+</div>
+
+<br/>
+
+<!-- CODING PLATFORMS -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> COMPETITIVE PROGRAMMING
+
+</div>
+
+<div align="center">
+
+| Platform | Profile | Status |
+|:--------:|:-------:|:------:|
+| 🟢 **HackerRank** | [@lgmalshan](https://www.hackerrank.com/lgmalshan) | ![HackerRank](https://img.shields.io/badge/Active-00EA64?style=flat-square) |
+| 🟡 **LeetCode** | [@wzoyI87IbG](https://leetcode.com/u/wzoyI87IbG) | ![LeetCode](https://img.shields.io/badge/Solving-FFA116?style=flat-square) |
+
+</div>
+
+<br/>
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> FEATURED WORK
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Amiz001?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- SUPPORT -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> SUPPORT & CONNECT
+
+</div>
+
+<div align="center">
+
+<p>If you find my work valuable and want to support my journey</p>
+
+<a href="https://buymeacoffee.com/lgmalshan3">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+
+### 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House"/>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let's Connect & Build Something Amazing!
+
+<p>Open to collaborations, freelance projects, and tech discussions</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer"/>
+
+</div>
