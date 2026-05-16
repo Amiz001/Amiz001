@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=AMILA%20MALSHAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20UI/UX%20Craftsman&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=AMILA%20MALSHAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20UI/UX%20Craftsman&descAlignY=51&descAlign=50"/>
 
 <br/>
 
@@ -75,7 +75,7 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,bootstrap,js,typescript,&theme=dark" />
 </p>
 
 ### Backend & Databases
@@ -97,7 +97,6 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase&theme=dark" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 </div>
