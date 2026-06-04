@@ -62,6 +62,11 @@ current_focus: Building production-grade applications with modern tech stacks
 personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-Oriented"]
 ```
 
+</br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amiz001&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
+</div>
+
 <br/>
 
 <!-- TECH STACK -->
@@ -75,28 +80,31 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,bootstrap,js,typescript,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,js,typescript,html,css&theme=dark" />
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
+  <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.svg" width="48" height="48" alt="Hono" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma&theme=dark" />
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&theme=dark" />
 </p>
 
 ### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,kotlin,java&theme=dark" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://api.iconify.design/logos/react.svg" alt="React Native" width="48" />
+  <img src="https://cdn.simpleicons.org/expo" height="48" alt="Expo" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java&theme=dark" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,docker,gcp&theme=dark" />
 </p>
 
 </div>
@@ -123,59 +131,6 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 </div>
 
 <br/>
-
-<br/>
-
-<!-- PROFILE VIEWS & TROPHIES -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ACHIEVEMENTS & RECOGNITION
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amiz001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amiz001&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
-</div>
-
-<br/>
-
-<!-- CODING PLATFORMS -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> COMPETITIVE PROGRAMMING
-
-</div>
-
-<div align="center">
-
-| Platform | Profile | Status |
-|:--------:|:-------:|:------:|
-| 🟢 **HackerRank** | [@lgmalshan](https://www.hackerrank.com/lgmalshan) | ![HackerRank](https://img.shields.io/badge/Active-00EA64?style=flat-square) |
-| 🟡 **LeetCode** | [@wzoyI87IbG](https://leetcode.com/u/wzoyI87IbG) | ![LeetCode](https://img.shields.io/badge/Solving-FFA116?style=flat-square) |
-
-</div>
-
-<br/>
-
-<!-- FEATURED PROJECTS -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> FEATURED WORK
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Amiz001?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF"/>
-</a>
-
-</div>
-
 <br/>
 
 <!-- SUPPORT -->
@@ -187,8 +142,6 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 
 <div align="center">
 
-<p>If you find my work valuable and want to support my journey</p>
-
 <a href="https://buymeacoffee.com/lgmalshan3">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" />
 </a>
@@ -197,7 +150,7 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 
 <br/>
 
-<!-- QUOTE -->
+<!-- QUOTE 
 <div align="center">
 
 ### 💭 Developer Quote
@@ -206,7 +159,7 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- FOOTER -->
 <div align="center">
