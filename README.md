@@ -104,7 +104,7 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,docker,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,gcp,firebase,docker,supabase,sentry&theme=dark" />
 </p>
 
 </div>
