@@ -117,10 +117,11 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB ANALYTICS
 
 </div>
-
+<!--
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amiz001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF" />
-</div>
+</div> 
+-->
 
 
 <br/>
