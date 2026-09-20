@@ -129,9 +129,9 @@ personality_traits: ["Problem Solver", "Quick Learner", "Team Player", "Detail-O
 </br>
 
 <!-- ACTIVITY GRAPH -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amiz001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="95%"/>
-</div>
+</div> -->
 
 <br/>
 <br/>
